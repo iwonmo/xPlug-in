@@ -1,2 +1,3 @@
 # xPlug-in
-phpstorm plug
+Phpstorm removes a plugin for empty lines and is also an example plugin.
+
